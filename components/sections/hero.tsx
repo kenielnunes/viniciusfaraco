@@ -41,7 +41,7 @@ export function HeroSection() {
           <div className="absolute -bottom-10 -right-10 w-60 h-60 bg-muted rounded-full opacity-50 animate-blob animation-delay-2000"></div>
           <div className="relative z-10 aspect-square rounded-full overflow-hidden border-4 border-primary/20 shadow-xl animate-border-pulse">
             <Image
-              src="/placeholder.svg?height=600&width=600"
+              src="/"
               alt="Vinicius Faraco"
               width={600}
               height={600}
