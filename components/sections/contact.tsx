@@ -52,13 +52,13 @@ export function ContactSection({ contactRef }: ContactSectionProps) {
               </span>
             </a>
             <a
-              href="https://github.com/viniciusfaraco"
+              href="https://wa.me/5548999926306"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 text-xl text-muted-foreground hover:text-foreground group"
             >
               <Icons.WhatsApp />
-              <span className="link-underline">github.com/viniciusfaraco</span>
+              <span className="link-underline">WhatsApp</span>
             </a>
           </div>
       </div>
